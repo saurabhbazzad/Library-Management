@@ -10,9 +10,13 @@ Version v1.1
 
 thank you
 
-///////
+
 this code is to be added in next major version v2.0
 
 
 
 /* Now this file is ready to be commited to the master branch*/
+
+
+these changes were made in later version
+Version v1.2
